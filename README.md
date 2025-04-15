@@ -16,13 +16,13 @@ To analyze sales, customer behavior, and coffee consumption trends using SQL and
 * **MySQL** – Data querying and transformation
 
 **Folder Structure:**
-* **Datasets**
+* **Datasets:**
 * city.csv
 * customers.csv
 * products.csv
 *  sales.csv
-* **Reports**
+* **Reports:**
 *  Monday Coffee Data Analysis.pdf     
-* **MYSQL**
+* **MYSQL:**
 * Monday_Coffee_Data_Analysis.sql
 *  README.md
